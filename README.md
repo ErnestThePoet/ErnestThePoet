@@ -1,6 +1,6 @@
 ### Hello everyone, this is Ernest's programming world!
 
-- 💖 I’m interested in Web developing, desktop apps, parallel computing and more.
+- 💖 I’m interested in Web developing, desktop apps, parallel computing(SIMD, GPGPU) and more.
 - 📔 I also love geography🌍 and have a taste for literature and art.
 - 🥰 I enjoy a happy and light-hearted lifestyle with boundless creativity.
 
