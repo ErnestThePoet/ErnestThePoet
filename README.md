@@ -1,6 +1,7 @@
 ### Hello everyone, this is Ernest's programming world!
 
 - 💖 I’m interested in Web developing, desktop apps, parallel computing(SIMD, GPGPU) and more.
+- ✈️ I am a passionate flight simmer with a fanatical interest in every corner of civil aviation.
 - 📔 I also love reading, music, bicycling and swimming.
 - 🥰 I enjoy a happy and light-hearted lifestyle with boundless creativity.
 
