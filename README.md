@@ -52,5 +52,5 @@
 <h2 align="center">🌟 Github Status 🌛</h2>
 
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api?username=ErnestThePoet&count_private=true&show_icons=true&theme=vue" alt="github-status" />
-<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ErnestThePoet&theme=default&v=2" alt="github-status" />
+<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ErnestThePoet&theme=vue&v=2" alt="github-status" />
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestThePoet&langs_count=8&layout=compact&count_private=true&theme=vue" alt="github-status" />
