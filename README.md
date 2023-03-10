@@ -29,6 +29,7 @@
 <img alt="nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img alt="mobx" height="40" width="40" src="https://raw.githubusercontent.com/mobxjs/mobx/main/website/static/img/mobx.png" />
 <img alt="threejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+<img alt="webpack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 </p>
 
 ### *Backend:*
