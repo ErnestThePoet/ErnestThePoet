@@ -50,6 +50,11 @@
 <img alt="electron" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 </p>
 
+### *Other:*
+<p align="center">
+<img alt="opencl" height="40" src="https://raw.githubusercontent.com/KhronosGroup/OpenCL-Docs/main/images/OpenCL_small.jpg" />
+</p>
+
 <h2 align="center">🌟 Github Status 🌛</h2>
 
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api?username=ErnestThePoet&count_private=true&show_icons=true&theme=vue" alt="github-status" />
