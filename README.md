@@ -65,6 +65,6 @@
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ErnestThePoet&langs_count=8&theme=vue&v=2" alt="github-status" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestThePoet&langs_count=8&layout=compact&count_private=true&theme=vue" alt="github-status" />
+<img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestThePoet&langs_count=8&layout=compact&count_private=true&theme=vue" alt="github-status" />
 </p>
 </div>
