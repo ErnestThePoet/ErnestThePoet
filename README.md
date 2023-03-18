@@ -57,6 +57,14 @@
 
 <h2 align="center">🌟 Github Status 🌛</h2>
 
-<div align="center"><p><img src="https://github-readme-stats.vercel.app/api?username=ErnestThePoet&count_private=true&show_icons=true&theme=vue" alt="github-status" />
-<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ErnestThePoet&theme=vue&v=2" alt="github-status" />
-<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestThePoet&langs_count=8&layout=compact&count_private=true&theme=vue" alt="github-status" />
+<div align="center">
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErnestThePoet&border=e4e2e2&theme=vue" alt="streak-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ErnestThePoet&count_private=true&show_icons=true&theme=vue" alt="github-status" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ErnestThePoet&langs_count=8&theme=vue&v=2" alt="github-status" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestThePoet&langs_count=8&layout=compact&count_private=true&theme=vue" alt="github-status" />
+</p>
+</div>
