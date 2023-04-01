@@ -21,16 +21,23 @@
 <img alt="css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </p>
+<p align="center">
+C, C++, C#, Java, Python, JavaScript, Typescript, HTML5, CSS3, SCSS
+</p>
 
 ### *Frontend:*
 <p align="center">
 <img alt="vuejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img alt="react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img alt="nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img alt="redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img alt="mobx" height="40" width="40" src="https://raw.githubusercontent.com/mobxjs/mobx/main/website/static/img/mobx.png" />
+<img alt="nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img alt="threejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img alt="webpack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+</p>
+
+<p align="center">
+Vue.js, React, Redux, Mobx, Next.js, Three.js, Webpack
 </p>
 
 ### *Backend:*
@@ -44,6 +51,10 @@
 <img alt="nginx" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </p>
 
+<p align="center">
+Springboots, Django, Node.js, MySQL, Sqlite, Docker, Nginx
+</p>
+
 ### *Desktop:*
 <p align="center">
 <img alt="dot-net-wpf-winforms" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
@@ -51,9 +62,17 @@
 <img alt="electron" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 </p>
 
+<p align="center">
+.Net(WPF/Winforms), Qt, Electron
+</p>
+
 ### *Other:*
 <p align="center">
 <img alt="opencl" height="40" src="https://raw.githubusercontent.com/KhronosGroup/OpenCL-Docs/main/images/OpenCL_small.jpg" />
+</p>
+
+<p align="center">
+OpenCL
 </p>
 
 <h2 align="center">🌟 Github Status 🌛</h2>
