@@ -52,7 +52,7 @@ Vue.js, <b>React</b>, <b>Redux</b>, <b>Mobx</b>, <b>Next.js</b>, Three.js, Webpa
 </p>
 
 <p align="center">
-Springboots, Django, Node.js, MySQL, Sqlite, Docker, Nginx
+Spring Boot, Django, Node.js, MySQL, Sqlite, Docker, Nginx
 </p>
 
 ### *Desktop:*
