@@ -37,7 +37,7 @@ C, C++, C#, Java, Python, JavaScript, Typescript, HTML5, CSS3, SCSS
 </p>
 
 <p align="center">
-Vue.js, <b>React</b>, <b>Redux</b>, <b>Mobx</b>, <b>Next.js</b>, Three.js, Webpack
+Vue.js, <b>React</b>, <b>Redux</b>, Mobx, <b>Next.js</b>, Three.js, Webpack
 </p>
 
 ### *Backend:*
