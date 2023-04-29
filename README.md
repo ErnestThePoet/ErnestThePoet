@@ -4,7 +4,7 @@
 
 - 💖 I’m interested in Web developing, socket programming, desktop apps and more.
 - 📔 I also take a pleasure in reading, bicycling, swimming and flight-simming.
-- 🥰 I enjoy a balanced lifestyle where I harvest boundless creativity. I believe developers' lives matter, and am **STRONGLY** opposed to the [996 work culture](https://en.wikipedia.org/wiki/996_working_hour_system).
+- 🥰 I enjoy a balanced lifestyle where I harvest boundless creativity.
 
 <h2 align="center">⛏️ Technology Stack ⚒️</h2>
 
