@@ -34,10 +34,11 @@ C, C++, C#, Java, Python, JavaScript, Typescript, HTML5, CSS3, SCSS
 <img alt="nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img alt="threejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img alt="webpack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+<img alt="vite" height="40" width="40" src="https://vitejs.cn/logo.svg" />
 </p>
 
 <p align="center">
-Vue.js, <b>React</b>, <b>Redux</b>, Mobx, <b>Next.js</b>, Three.js, Webpack
+Vue.js, <b>React</b>, <b>Redux</b>, Mobx, <b>Next.js</b>, Three.js, Webpack, <b>Vite</b>
 </p>
 
 ### *Backend:*
