@@ -65,7 +65,7 @@ Spring Boot, Django, Node.js, MySQL, Sqlite, Docker, Nginx
 </p>
 
 <p align="center">
-.Net(WPF/Winforms), Qt, Electron
+.Net(<b>WPF</b>/Winforms), Qt, Electron
 </p>
 
 ### *Other:*
