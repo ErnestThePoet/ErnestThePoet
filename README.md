@@ -18,13 +18,9 @@
 <img alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt="typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img alt="html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img alt="sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img alt="graphql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 </p>
 <p align="center">
-C, C++, C#, Java, Kotlin, Python, JavaScript, Typescript, HTML5, CSS3, SCSS, GraphQL
+C, C++, C#, Java, Kotlin, Python, JavaScript, Typescript
 </p>
 
 ### *Frontend:*
@@ -34,28 +30,24 @@ C, C++, C#, Java, Kotlin, Python, JavaScript, Typescript, HTML5, CSS3, SCSS, Gra
 <img alt="redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img alt="mobx" height="40" width="40" src="https://raw.githubusercontent.com/mobxjs/mobx/main/website/static/img/mobx.png" />
 <img alt="nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img alt="threejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
-<img alt="webpack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img alt="vite" height="40" width="40" src="https://vitejs.cn/logo.svg" />
 </p>
 
 <p align="center">
-Vue.js, <b>React</b>, <b>Redux</b>, Mobx, <b>Next.js</b>, Three.js, Webpack, <b>Vite</b>
+Vue.js, <b>React</b>, Redux, Mobx, Next.js, Vite
 </p>
 
 ### *Backend:*
 <p align="center">
 <img alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img alt="django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img alt="nginx" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </p>
 
 <p align="center">
-Spring Boot, Django, Node.js, MySQL, Sqlite, Docker, Nginx
+Spring Boot, Django, MySQL, Docker, Nginx
 </p>
 
 ### *Desktop:*
@@ -66,16 +58,7 @@ Spring Boot, Django, Node.js, MySQL, Sqlite, Docker, Nginx
 </p>
 
 <p align="center">
-.Net(<b>WPF</b>/Winforms), Qt, Electron
-</p>
-
-### *Other:*
-<p align="center">
-<img alt="opencl" height="40" src="https://raw.githubusercontent.com/KhronosGroup/OpenCL-Docs/main/images/OpenCL_small.jpg" />
-</p>
-
-<p align="center">
-OpenCL
+.Net(WPF), Qt, Electron
 </p>
 
 <h2 align="center">🌟 Github Status 🌛</h2>
