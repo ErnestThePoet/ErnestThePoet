@@ -1,7 +1,6 @@
 ### Hello friend, I'm Ernest Cui. So delighted to see you here in my programming world!
 
-- 🏫 Currently I major in Information Security at Harbin Institute of Technology.
-
+- 👨‍💻 I'm a Front-End Engineer at [Meituan](https://www.meituan.com/).
 - 💖 I’m interested in Web developing, socket programming, desktop apps and more.
 - 📔 I also take a pleasure in reading, bicycling, swimming and flight-simming.
 - 🥰 I enjoy a balanced lifestyle where I harvest boundless creativity.
