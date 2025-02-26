@@ -3,7 +3,7 @@
 - 👨‍💻 I'm a Front-End Engineer at [Meituan](https://www.meituan.com/).
 - 📖 I studied Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) through 2020 to 2024.
 - 💖 I’m interested in Web developing, socket programming, desktop apps and more.
-- 📔 I also take a pleasure in photography, reading, singing, bicycling and swimming.
+- 📔 I also take a pleasure in photography, reading, music, bicycling and swimming.
 - 🥰 I enjoy a balanced lifestyle where I harvest boundless creativity.
 
 <h2 align="center">⛏️ Technology Stack ⚒️</h2>
