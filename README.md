@@ -6,6 +6,11 @@
 - 📔 I also take a pleasure in photography, reading, music, bicycling and swimming.
 - 🥰 I enjoy a balanced lifestyle where I harvest boundless creativity.
 
+<h2 align="center">🌸 Profile Views 🌸</h2>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ErnestThePoet/count.svg" />
+</p>
+
 <h2 align="center">⛏️ Technology Stack ⚒️</h2>
 
 ### *Languages:*
